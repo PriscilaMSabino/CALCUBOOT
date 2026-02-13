@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+# Ignore a virtual environment
+.venv/
+__pycache__/
+
+# Ignore arquivos sensíveis
+.env
+*.pyc
+
+# Inclua arquivos que devem ir pro GitHub
+!*.py
+
